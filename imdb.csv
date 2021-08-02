@@ -1,0 +1,51 @@
+ID,Movie name,Year,Time,Rating,Genre,Metascore,Votes,Gross
+0,The Shawshank Redemption,1994,142,9.3,Drama,80,"2,431,183",$28.34M
+1,The Godfather,1972,175,9.2,"Crime,Drama",100,"1,682,986",$134.97M
+2,The Dark Knight,2008,152,9,"Action,Crime,Drama",84,"2,387,036",$534.86M
+3,The Godfather: Part II,1974,202,9,"Crime,Drama",90,"1,168,304",$57.30M
+4,12 Angry Men,1957,96,9,"Crime,Drama",96,"717,864",$4.36M
+5,The Lord of the Rings: The Return of the King,2003,201,8.9,"Action,Adventure,Drama",94,"1,691,294",$377.85M
+6,Pulp Fiction,1994,154,8.9,"Crime,Drama",94,"1,886,308",$107.93M
+7,Schindler's List,1993,195,8.9,"Biography,Drama,History",94,"1,251,400",$96.90M
+8,Inception,2010,148,8.8,"Action,Adventure,Sci-Fi",74,"2,142,470",$292.58M
+9,Fight Club,1999,139,8.8,Drama,66,"1,917,449",$37.03M
+10,The Lord of the Rings: The Fellowship of the Ring,2001,178,8.8,"Action,Adventure,Drama",92,"1,712,545",$315.54M
+11,Forrest Gump,1994,142,8.8,"Drama,Romance",82,"1,879,156",$330.25M
+12,"Il buono, il brutto, il cattivo",1966,161,8.8,Western,90,"709,339",$6.10M
+13,The Lord of the Rings: The Two Towers,2002,179,8.7,"Action,Adventure,Drama",87,"1,529,321",$342.55M
+14,The Matrix,1999,136,8.7,"Action,Sci-Fi",73,"1,731,651",$171.48M
+15,Goodfellas,1990,146,8.7,"Biography,Crime,Drama",90,"1,056,222",$46.84M
+16,Star Wars: Episode V - The Empire Strikes Back,1980,124,8.7,"Action,Adventure,Fantasy",82,"1,192,449",$290.48M
+17,One Flew Over the Cuckoo's Nest,1975,133,8.7,Drama,84,"944,329",$112.00M
+18,Gisaengchung,2019,132,8.6,"Comedy,Drama,Thriller",96,"636,712",$53.37M
+19,Interstellar,2014,169,8.6,"Adventure,Drama,Sci-Fi",74,"1,587,630",$188.02M
+20,Cidade de Deus,2002,130,8.6,"Crime,Drama",79,"715,533",$7.56M
+21,Sen to Chihiro no kamikakushi,2001,125,8.6,"Animation,Adventure,Family",96,"682,519",$10.06M
+22,Saving Private Ryan,1998,169,8.6,"Drama,War",91,"1,277,762",$216.54M
+23,The Green Mile,1999,189,8.6,"Crime,Drama,Fantasy",61,"1,189,224",$136.80M
+24,La vita è bella,1997,116,8.6,"Comedy,Drama,Romance",59,"644,170",$57.60M
+25,Se7en,1995,127,8.6,"Crime,Drama,Mystery",65,"1,497,396",$100.13M
+26,The Silence of the Lambs,1991,118,8.6,"Crime,Drama,Thriller",85,"1,315,887",$130.74M
+27,Star Wars,1977,121,8.6,"Action,Adventure,Fantasy",90,"1,264,565",$322.74M
+28,Seppuku,1962,133,8.6,"Action,Drama,Mystery",85,"46,948",&&&&&&
+29,Shichinin no samurai,1954,207,8.6,"Action,Adventure,Drama",98,"325,009",$0.27M
+30,It's a Wonderful Life,1946,130,8.6,"Drama,Family,Fantasy",89,"417,926",&&&&&&
+31,Whiplash,2014,106,8.5,"Drama,Music",88,"751,639",$13.09M
+32,The Intouchables,2011,112,8.5,"Biography,Comedy,Drama",57,"787,469",$13.18M
+33,The Prestige,2006,130,8.5,"Drama,Mystery,Sci-Fi",66,"1,230,510",$53.09M
+34,The Departed,2006,151,8.5,"Crime,Drama,Thriller",85,"1,227,159",$132.38M
+35,The Pianist,2002,150,8.5,"Biography,Drama,Music",85,"760,317",$32.57M
+36,Gladiator,2000,155,8.5,"Action,Adventure,Drama",67,"1,383,718",$187.71M
+37,American History X,1998,119,8.5,Drama,62,"1,058,235",$6.72M
+38,The Usual Suspects,1995,106,8.5,"Crime,Mystery,Thriller",77,"1,018,626",$23.34M
+39,Léon,1994,110,8.5,"Action,Crime,Drama",64,"1,068,977",$19.50M
+40,The Lion King,1994,88,8.5,"Animation,Adventure,Drama",88,"972,669",$422.78M
+41,Terminator 2: Judgment Day,1991,137,8.5,"Action,Sci-Fi",75,"1,023,633",$204.84M
+42,Nuovo Cinema Paradiso,1988,155,8.5,"Drama,Romance",80,"241,630",$11.99M
+43,Hotaru no haka,1988,89,8.5,"Animation,Drama,War",94,"247,819",&&&&&&
+44,Back to the Future,1985,116,8.5,"Adventure,Comedy,Sci-Fi",87,"1,098,360",$210.61M
+45,Once Upon a Time in the West,1968,165,8.5,Western,80,"310,870",$5.32M
+46,Psycho,1960,109,8.5,"Horror,Mystery,Thriller",97,"623,135",$32.00M
+47,Pather Panchali,1955,125,8.5,Drama,&&&&&&&&,"27,046",$0.54M
+48,Rear Window,1954,112,8.5,"Mystery,Thriller",100,"459,362",$36.76M
+49,Casablanca,1942,102,8.5,"Drama,Romance,War",100,"537,097",$1.02M
